@@ -1,0 +1,2 @@
+不同ip服务器存储静态文件再结合上cdn加速。
+参考： https://blog.csdn.net/u010400084/article/details/52925597
